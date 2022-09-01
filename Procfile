@@ -1,1 +1,1 @@
-web: gunicorn PROYEK_0.wsgi --log-file -
+web: gunicorn app-annisa.wsgi --log-file -
